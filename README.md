@@ -19,6 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
   <img align="center" alt="Lara-Csharp" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Lara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/83a5fb699489c05a4aa19cd47be6183a.gif" width="120" height="120" border="0" alt="Lara-gif" /></a><br /><a href="https://picasion.com/"></a>
    
    ##
    
