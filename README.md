@@ -1,4 +1,8 @@
-## Olá, eu sou a Lara Freitas, desenvolvedora Full Stack jr.
+## <h1  align="center"> Olá, eu sou a Lara Freitas 😊 </h1>
+
+<p align="center">
+  <a href="https://github.com/Laracf/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora%20Full-Stack&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"  ></a>
+</p>
 
 <div>
  <a href="https://github.com/Laracf">
