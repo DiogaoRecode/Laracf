@@ -24,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Lara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" style="border-radius:50px;" width="150" height="150" alt="Lara-gif" 
-src="https://i.picasion.com/pic92/83a5fb699489c05a4aa19cd47be6183a.gif"/></a>
+src="https://i.picasion.com/pic92/4e9342af4094856b04eec6c12262a881.gif"/></a>
    
    ##
    
